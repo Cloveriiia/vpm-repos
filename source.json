@@ -1,0 +1,17 @@
+{
+    "name": "Atelier Cloveria",
+    "id": "com.atelier-cloveria.vpm",
+    "url": "https://cloveriiia.github.io/vpm-repos/index.json",
+    "author": {
+        "name": "Atelier Cloveria",
+        "url": "https://atelier-cloveria.booth.pm/"
+    },
+    "description": "Atelier Cloveria のツール",
+    "infoLink": {
+        "url": "https://atelier-cloveria.booth.pm/",
+        "text": "BOOTH"
+    },
+    "githubRepos": [
+        "Cloveriiia/haircolornavi"
+    ]
+}
